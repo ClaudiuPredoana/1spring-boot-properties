@@ -1,3 +1,2 @@
 # 04-spring-boot-properties
-Define custom application properties
-Inject Properties into Spring Boot app
+Define custom application properties and Inject Properties into Spring Boot app
